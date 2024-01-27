@@ -1,0 +1,16 @@
+{
+    "name": "john/php-for-beginners-series",
+    "authors": [
+        {
+            "name": "Samiul"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "Core\\": "Core/",
+            "Http\\": "Http/"
+        }
+    }
+}
